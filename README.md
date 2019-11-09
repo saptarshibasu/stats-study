@@ -4,5 +4,4 @@
 
 ### Mean
 
-Population Mean = <img src="/tex/78c4297c329da0b30a27cadef7eed155.svg?invert_in_darkmode&sanitize=true" align=middle width="100"/>
-
+<p align="center"><img src="/tex/b00ac34ea5fb351756463144793bb50f.svg?invert_in_darkmode&sanitize=true" align=middle width=213.85187174999996pt height=44.89738935pt/></p>

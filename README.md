@@ -1,2 +1,2 @@
-# stats-study
-Study on Statistics
+# Basics of Statistics
+

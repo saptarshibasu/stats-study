@@ -4,4 +4,4 @@
 
 ### Mean
 
-<p align="center"><img src="/tex/5c17a7a16978daf4bafb4e6dfae25a62.svg?invert_in_darkmode&sanitize=true" align=middle width=307.39513695pt height=44.89738935pt/></p>
+<p align="center"><img src="/tex/6b0f8299512edc9df7c02dc8a1f89011.svg?invert_in_darkmode&sanitize=true" align=middle width=232.5602334pt height=44.89738935pt/></p>

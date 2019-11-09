@@ -3,7 +3,9 @@
 ## Measures of Central Tendency
 
 ### Mean
+
+
 $$
-{\Large \mu = \sum_{i=1}^n \frac{x_{i}}{N}}
+{\LARGE \mu = \sum_{i=1}^n \frac{x_{i}}{N}}
 $$
 

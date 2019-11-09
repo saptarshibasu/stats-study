@@ -48,7 +48,7 @@ The dispersion of the data points around the mean value
 
 $$
 \begin{align*}
-Population \, Variance &= \sigma^2 &= \sum_{i=1}^N \frac{(x_{i} - \mu)^2}{N} \\
-Sample \, Variance &= \, S^2 &= \sum_{i=1}^n \frac{(x_{i} - \mathrel{\bar{x}})}{n - 1}
+Population \, Variance = \sigma^2 &= \sum_{i=1}^N \frac{(x_{i} - \mu)^2}{N} \\
+Sample \, Variance = \, S^2 &= \sum_{i=1}^n \frac{(x_{i} - \mathrel{\bar{x}})^2}{n - 1}
 \end{align*}
 $$

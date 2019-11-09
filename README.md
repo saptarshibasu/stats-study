@@ -6,7 +6,7 @@
 
 * Disadvantage - Easily affected by outliers
 
-<p align="center"><img src="/tex/acf5084113d5ccdd4bedadfcf919be11.svg?invert_in_darkmode&sanitize=true" align=middle width=237.59584694999998pt height=102.56647829999999pt/></p>
+<p align="center"><img src="/tex/e31ce2e9d6958633c981be5e059d3ff4.svg?invert_in_darkmode&sanitize=true" align=middle width=225.72358875pt height=102.56647829999999pt/></p>
 
 ### Median
 

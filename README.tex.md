@@ -4,7 +4,5 @@
 
 ### Mean
 
-$$
-\mu = \sum_{i=1}^n \frac{x_{i}}{N}
-$$
+Population Mean = $\mu = \sum_{i=1}^n \frac{x_{i}}{N}$
 

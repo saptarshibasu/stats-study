@@ -4,4 +4,6 @@
 
 ### Mean
 
-<p align="center"><img src="/tex/57b83a1c7a2a96bbc9d1c623e5737a8f.svg?invert_in_darkmode&sanitize=true" align=middle width=227.66151045pt height=44.89738935pt/></p>
+* Easily affected by outliers
+
+<p align="center"><img src="/tex/c981ff800b331c10764af18fff19f779.svg?invert_in_darkmode&sanitize=true" align=middle width=438.3240015pt height=79.84466985pt/></p>

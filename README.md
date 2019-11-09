@@ -41,4 +41,4 @@ mean = median = mode
 
 The dispersion of the data points around the mean value
 
-<p align="center"><img src="/tex/b3907f416ed140a57f93d85ba1726b51.svg?invert_in_darkmode&sanitize=true" align=middle width=500.74208745pt height=97.22095184999999pt/></p>
+<p align="center"><img src="/tex/5504d2f7b03fbc926598c7a55b876112.svg?invert_in_darkmode&sanitize=true" align=middle width=323.6976006pt height=102.56647829999999pt/></p>

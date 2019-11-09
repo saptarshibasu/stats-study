@@ -5,5 +5,5 @@
 ### Mean
 
 $$
-Population \hspace{0.2cm} Mean \hspace{0.2cm} (\mu) = \sum_{i=1}^n \frac{x_{i}}{N}
+Population \hspace{0.1} Mean = \mu = \sum_{i=1}^n \frac{x_{i}}{N}
 $$
